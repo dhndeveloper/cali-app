@@ -1,0 +1,9 @@
+{
+  "name": "caliApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "pro_id": "c47c1444",
+  "id": "c47c1444"
+}
